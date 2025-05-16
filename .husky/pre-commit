@@ -1,1 +1,3 @@
+yarn test
+yarn test:coverage
 npx lint-staged
